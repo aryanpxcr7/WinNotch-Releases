@@ -13,6 +13,8 @@
 <p align="center">
   <a href="https://winnotch.xyz"><b>winnotch.xyz</b></a>
   &nbsp;·&nbsp;
+  <a href="https://youtu.be/_7pjkOjPV0Y">Watch the film (0:52)</a>
+  &nbsp;·&nbsp;
   <a href="https://winnotch.xyz/#pricing">Buy for $5, once</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/aryanpxcr7/WinNotch-Releases/releases/latest">Download</a>
